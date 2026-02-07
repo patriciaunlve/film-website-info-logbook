@@ -1,10 +1,10 @@
 # film-website-info-logbook
 影视网站信息记录簿。
 
-云播电影｜影视网站基础信息记录
+神马电影网｜影视网站基础信息记录
 
-名称：云播电影
-地址：https://www.yuantaicaps.com/
+名称：神马电影网
+地址：https://www.xiangzhuini.com/
 
 类型：影视站点
 状态：可访问
